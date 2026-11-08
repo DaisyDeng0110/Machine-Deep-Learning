@@ -1,7 +1,7 @@
 # A Bi-directional Message Passing Model for Salient Object Detection
 
 - [A Bi-directional Message Passing Model for Salient Object Detection](#a-bi-directional-message-passing-model-for-salient-object-detection)
-  - [主要工作](#主要工作)
+  - [主要工作](#重要工作事项)
   - [网络结构](#网络结构)
   - [实验细节](#实验细节)
   - [相关链接](#相关链接)
@@ -10,7 +10,7 @@
 
 这是CVPR2018的一篇文章, 这里做一个简短的记录. 文章主要的目的就是通过设计网络来更好地集成不同层级得到的特征信息.
 
-## 主要工作
+## 主要工作/事项
 
 通过一些工作的分析, 文章提出了存在的一些不足:
 
